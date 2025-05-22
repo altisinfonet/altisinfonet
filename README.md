@@ -1,51 +1,63 @@
-## 👋 About Me
+# About:
 
-Hi there! I'm a passionate **Full Stack Developer** specializing in **React App Development** and **E-commerce Solutions**. With a strong focus on creating high-performance, scalable, and user-friendly web and mobile applications, I thrive at the intersection of design and technology.
+🔭I'm a Full Stack Developer currently working at Jain Group<br>👯 I’m looking to collaborate on MERN stack Projects<br>🌱 I’m currently learning MERN Stack
 
-### 🚀 What I Do
+### Profile Visits
 
-- 🛒 **Ecommerce Development**  
-  Crafting robust and high-converting online stores using platforms like **WooCommerce**, **Shopify**, and custom solutions powered by **Laravel**, **CodeIgniter**, or **Headless CMS**.
+![](https://profile-counter.glitch.me/aniket239/count.svg?)
 
-- ⚛️ **React App Development**  
-  Building dynamic, responsive, and interactive applications using **React.js**, **React Native**, and modern frontend architectures.
+# 🌐 Socials:
 
-- 🧩 **Custom API Integration**  
-  Seamless integration of payment gateways, shipping APIs, CRM tools, and third-party services to supercharge app capabilities.
+<a href="https://www.linkedin.com/in/aniket-kumar-biswas/" target="_blank" margin-right="px">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://bit.ly/aniket_whatsapp_chat" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:aniketkrbiswas239@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <br>
+  <br>
 
-- 🎨 **UI/UX Design**  
-  Clean, intuitive, and mobile-first interfaces using tools like **Figma**, **Photoshop**, and **TailwindCSS**.
+# 💻 Tech Stack:
 
----
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Adobe
+Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)&nbsp;
+![Adobe Premiere
+Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)&nbsp;
+![Adobe
+Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+<br>
+<br>
 
-### 🛠 Tech Stack
+# 📊 GitHub Stats:
 
-- **Frontend**: React.js, React Native, Next.js, Redux, Tailwind CSS, Bootstrap  
-- **Backend**: Node.js, Express.js, PHP, Laravel, CodeIgniter  
-- **Ecommerce**: WooCommerce, Shopify, Custom Cart Solutions  
-- **CMS**: WordPress, Headless CMS (Strapi, Sanity)  
-- **DevOps**: VPS Customization, cPanel/WHM, Mail Server Setup  
-- **Tools**: Git, GitHub, Postman, VS Code, Figma, Photoshop
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="https://streak-stats.demolab.com?user=aniket239&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=0&date_format=M%20j%5B,%20Y%5D&order=3" width="580" alt="streak graph" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket239&locale=en&hide_title=false&layout=compact&card_width=320&theme=github_dark&hide_border=true&order=2&custom_title=Languages" width="450" alt="languages graph" /></td>
+    </tr>
+  </table>
+</p>
 
----
 
-### 📈 Currently Working On
+###
 
-- Cross-platform mobile apps with **React Native**  
-- Scalable ecommerce stores with **custom checkout systems**  
-- Integrating AI tools into ecommerce analytics dashboards
-
----
-
-### 📫 Let’s Connect
-
-- 🌐 [Portfolio Website](#) *(Coming Soon / Add yours here)*  
-- 💼 [LinkedIn](#)  
-- 🐦 [Twitter](#)  
-- 📧 Reach me at: `youremail@example.com`
-
----
-
-### ⚡ Fun Fact
-
-I’m a lifelong learner and tech enthusiast who reads more books than emails 📚💻
+<img src="https://raw.githubusercontent.com/aniket239/aniket239/output/snake.svg" alt="Snake animation" />
